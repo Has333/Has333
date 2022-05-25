@@ -1,16 +1,19 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4200&color=91cbff&height=50&lines=echo+%22Hello+World!%22)](https://git.io/typing-svg)
 
-<!--
-**Has333/Has333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Has333 = {
+  pronouns: "him" | "his",
+  code: [Javascript, HTML, CSS],
+  technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        frontEnd: {
+            js: ["React"]
+        },
+         databases: ["mongo", "sqlite"],
+         },
+  currentFocus: "API development, backend architecture concepts, clean code",
+  hobbies: [Gaming, Reading, Writing]
+}
+```
