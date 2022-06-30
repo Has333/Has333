@@ -2,18 +2,18 @@
 
 ```javascript
 const Has333 = {
-  pronouns: "him" | "his",
-  code: [Javascript, HTML, CSS],
+  pronouns: "him" || "his",
+  code: [Javascript, Typescript, HTML, CSS],
   technologies: {
         backEnd: {
             js: ["Node", "Express"],
         },
         frontEnd: {
-            js: ["React"]
+            js: ["React", "Sass"]
         },
-         databases: ["mongo", "sqlite"],
+         databases: ["MongoDB", "SQLite", "MySQL", "PostgreSQL"],
          },
-  currentFocus: "API development, backend architecture concepts, clean code",
-  hobbies: [Gaming, Reading, Writing]
-}
+  currentFocus: "API development and integration, backend architecture concepts & clean code",
+  hobbies: ["Gaming", "Reading", "Drawing"]
+};
 ```
