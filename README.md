@@ -30,4 +30,4 @@ let Has333 = {
 };
 ```
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/jujuonrails.png" alt="TryHackMe">
+![This is an automated blog post image using Azure Function](https://tryhackme-badges.s3.amazonaws.com/jujuonrails.png?)
