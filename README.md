@@ -29,7 +29,7 @@ let Has333 = {
   hobbies: ["Gaming", "Reading", "Drawing"],
 };
 ```
-![This is an automated blog post image using Azure Function](https://tryhackme-badges.s3.amazonaws.com/jujuonrails.png?)
+![thmbadge](https://user-images.githubusercontent.com/79391523/189433386-a3a452a7-0f7f-4aa6-8c19-d898bf4c4b16.png)
 ![Arrexel](https://www.hackthebox.eu/badge/image/998902)
 
 
