@@ -14,10 +14,11 @@ let Has333 = {
   pronouns: "him" || "his",
   languages: ["en-us", "pt-br"],
   
-  code: [JavaScript, TypeScript, HTML5, CSS3],
+  code: [Python, JavaScript, TypeScript, HTML5, CSS3],
   technologies: {
         backend: {
             js: ["Node.js", "Express.js"],
+            py: ["Scrapy"],
         },
         frontend: {
             js: ["React", "Sass"],
