@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=30&color=93D1FF&lines=~$+echo+'Hello+World!')](https://git.io/typing-svg)
 ```javascript
 let Has333 = {
-  pronouns: "him" || "his",
+  pronouns:  "him" || "his",
   languages: ["en-us", "pt-br"],
   
   code: [Python, JavaScript, TypeScript, HTML5, CSS3],
@@ -21,7 +21,8 @@ let Has333 = {
             py: ["Scrapy"],
         },
         frontend: {
-            js: ["React", "Sass"],
+            js:  ["React"],
+            css: ["Sass"],
         },
          databases: ["MongoDB", "SQLite", "MySQL", "PostgreSQL"],
          },
