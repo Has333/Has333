@@ -31,5 +31,5 @@ let Has333 = {
   hobbies: ["Gaming", "Reading", "Drawing"],
 };
 ```
-![thm-badge](https://user-images.githubusercontent.com/79391523/191139246-5c7a2d4d-b4ee-4826-9bcb-f714fabb9659.png)
+![thm-badge](https://user-images.githubusercontent.com/79391523/192159099-9092d5eb-65a9-4c6f-a50e-10d1f5542d71.png)
 ![Arrexel](https://www.hackthebox.eu/badge/image/998902)
