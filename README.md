@@ -31,8 +31,14 @@ let Has333 = {
   hobbies: ["Gaming", "Reading", "Drawing"],
 };
 ```
-![thm-badge](https://user-images.githubusercontent.com/79391523/192159099-9092d5eb-65a9-4c6f-a50e-10d1f5542d71.png)
-![Arrexel](https://www.hackthebox.eu/badge/image/998902)
+<a href="https://tryhackme.com/p/jujuonrails">
+<img src="https://user-images.githubusercontent.com/79391523/192159099-9092d5eb-65a9-4c6f-a50e-10d1f5542d71.png">
+</a>
+
+<a href="https://app.hackthebox.com/profile/998902">
+<img src="https://www.hackthebox.eu/badge/image/998902">
+</a>
+
 <a href="https://www.hackerrank.com/jujuonrails">
 <img src="https://img.shields.io/badge/HackerRank-jujuonrails-brightgreen" height=50>
 </a>
