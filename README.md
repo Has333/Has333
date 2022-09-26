@@ -31,14 +31,14 @@ let Has333 = {
   hobbies: ["Gaming", "Reading", "Drawing"],
 };
 ```
-<a href="https://tryhackme.com/p/jujuonrails">
+<a href="https://tryhackme.com/p/jujuonrails" target="_blank">
 <img src="https://user-images.githubusercontent.com/79391523/192159099-9092d5eb-65a9-4c6f-a50e-10d1f5542d71.png">
 </a>
 
-<a href="https://app.hackthebox.com/profile/998902">
+<a href="https://app.hackthebox.com/profile/998902" target="_blank">
 <img src="https://www.hackthebox.eu/badge/image/998902">
 </a>
 
-<a href="https://www.hackerrank.com/jujuonrails">
+<a href="https://www.hackerrank.com/jujuonrails" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-jujuonrails-brightgreen" height=50>
 </a>
